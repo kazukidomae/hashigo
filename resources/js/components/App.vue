@@ -181,7 +181,7 @@ button{
     top: 0;
     z-index: -1;
     background-size: contain;
-    background-image: url('https://i.pinimg.com/564x/5e/4e/ab/5e4eab5e15f0f7b38ce23b91ef28c49f.jpg');
+    background-image: url('http://get.secret.jp/pt/file/1572327086.png');
 }
 
 .app {
